@@ -1,7 +1,10 @@
-# Page header
-gggggggggggggggg
+# Homepage
 
+**Nombre**: Tobias Armando Gutierrez Salinas
 
-fjfjkf
+**Materia**: Sistemas operativos y redes
 
-fffwe
+**Carrera**: Desarrollo de software interactivo y videojuegos
+
+**Escuela**: Instituto Universitario AMERIKE
+
